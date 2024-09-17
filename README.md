@@ -11,4 +11,4 @@
 
 <hr>
 
-![Demo]()
+![Demo](https://github.com/adridalo/ReactClock/blob/main/demo.gif)
